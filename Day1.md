@@ -11,7 +11,7 @@ Cloud computing provides various service models to meet different user requireme
 ![IaaS vs PaaS vs SaaS](./images/Iaas-Paas-Saas.jpg)
 
 - **Infrastructure as a Service (IaaS):** IaaS provides virtualized computing resources such as virtual machines, storage, and networks. Users have control over the operating systems and applications running on the infrastructure.
-![Infrastructure as a Service](./images/iaas.jpeg)
+![Infrastructure as a Service](./images/iaas.png)
 
   - **Scenario:** A startup company needs to quickly launch a web application without investing in physical servers. They utilize an IaaS provider like Amazon Web Services (AWS) or Microsoft Azure. By provisioning virtual machines, storage, and networking resources from the cloud provider's infrastructure, they can scale their application as needed without the upfront cost and maintenance of physical servers.
 
